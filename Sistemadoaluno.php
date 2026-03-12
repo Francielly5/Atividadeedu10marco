@@ -65,6 +65,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["calcular_media"])){
     <meta charset="UTF-8">
     <title>Sistema de Cadastro de Alunos</title>
     <a href="alunosCadastrados.php">Alunos Cadastrados</a>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 

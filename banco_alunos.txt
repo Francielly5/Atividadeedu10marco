@@ -11,3 +11,8 @@ pedro|44|computaria|6
 |||
 alex|18|computaria|10
 Danilo|30|computaria|10
+Camila |20|Programação|10
+Juliana|20|Programação|10
+Danilo|30|Programação|8
+Douglas|10|Programação|10
+Matheus |40|Computaria|8
